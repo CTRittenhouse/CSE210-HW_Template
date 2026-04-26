@@ -23,11 +23,11 @@ class Program
         }
         else if (number >= 60 && number <= 69)
         {
-            Console.WriteLine("Your grade is a F :( ");
+            Console.WriteLine("Your grade is a D ");
         }
         else if (number >= 0 && number <= 59)
         {
-            Console.WriteLine("Your grade is a B ");
+            Console.WriteLine("Your grade is a F :( ");
         }
         else if (number > 100)
         {
